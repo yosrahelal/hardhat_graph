@@ -1,0 +1,3 @@
+[submodule "lock-indexing"]
+	path = lock-indexing
+	url = https://github.com/yosrahelal/lock-indexing.git
